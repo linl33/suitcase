@@ -22,7 +22,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <org.codehaus.mojo.version>1.5.0</org.codehaus.mojo.version>
         <jdk.version>1.8</jdk.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <mainClass>org.opendatakit.suitcase.Suitcase</mainClass>
         <sourceDir>src/main/java</sourceDir>
